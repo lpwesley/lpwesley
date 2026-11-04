@@ -42,6 +42,22 @@ Hoje construo interfaces com HTML, CSS e JavaScript, estudo pela Rocketseat e pe
 
 ---
 
+## Projeto em destaque
+
+<div align="center">
+
+<a href="https://github.com/lpwesley/lauwer-dev-portfolio">
+  <img width="100%" alt="Preview do Portfólio Dev de Wesley Lauwer" src="https://raw.githubusercontent.com/lpwesley/lauwer-dev-portfolio/main/assets/banner-portfolio.png" />
+</a>
+
+**Portfólio Dev** · meu portfólio pessoal, criado a partir do desafio da Rocketseat com HTML e CSS
+
+[Repositório](https://github.com/lpwesley/lauwer-dev-portfolio) &nbsp;·&nbsp; [Visualizar](https://lpwesley.github.io/lauwer-dev-portfolio/)
+
+</div>
+
+---
+
 ## Projetos
 
 <div align="center">
@@ -52,6 +68,7 @@ Hoje construo interfaces com HTML, CSS e JavaScript, estudo pela Rocketseat e pe
 
 | Projeto | Tipo | Tecnologias | Código | Demo |
 | :--- | :---: | :--- | :---: | :---: |
+| **Portfólio Dev** · meu portfólio pessoal | 🧩 | HTML, CSS | [Repositório](https://github.com/lpwesley/lauwer-dev-portfolio) | [Visualizar](https://lpwesley.github.io/lauwer-dev-portfolio/) |
 | **Quicklist** · lista de compras | 🧩 | HTML, CSS, JavaScript | [Repositório](https://github.com/lpwesley/quicklist) | [Visualizar](https://lpwesley.github.io/quicklist/) |
 | **Convert** · conversor de moedas | 🎓 + melhorias | HTML, CSS, JavaScript | [Repositório](https://github.com/lpwesley/convert-currency) | [Visualizar](https://lpwesley.github.io/convert-currency/) |
 | **CSS Drills** · exercícios da mentoria | 🧩 | HTML, CSS, Flexbox | [Repositório](https://github.com/lpwesley/css-drills) | — |
@@ -82,10 +99,11 @@ Hoje construo interfaces com HTML, CSS e JavaScript, estudo pela Rocketseat e pe
   <img alt="Instagram Lauwer.Dev" src="https://img.shields.io/badge/Instagram-lauwer.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<!-- Descomente e preencha com seus dados:
-<a href="https://www.linkedin.com/in/SEU-USUARIO/">
+<a href="https://www.linkedin.com/in/wesleylauwer">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Wesley_Lauwer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<!-- Descomente e preencha com seu e-mail, se quiser deixá-lo público:
 <a href="mailto:SEU-EMAIL@gmail.com">
   <img alt="E-mail" src="https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
